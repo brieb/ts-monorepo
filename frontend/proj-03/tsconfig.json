@@ -1,0 +1,7 @@
+{
+  "extends": "../typescript/tsconfig.dts.json",
+  "include": [".", "./**/*.json"],
+  "references": [
+    { "path": "../proj-02" },
+  ]
+}
